@@ -1,3 +1,9 @@
-.narsxi_title {
+body {
+    background-color: white;
+}
+.site_content {
     text-align: center;
+}
+.narsxi_title {
+    display: inline-block;
 }
