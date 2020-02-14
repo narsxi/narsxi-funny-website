@@ -25,3 +25,30 @@ body {
     color:black;
     margin-top: -20px;
 }
+
+.socials {
+    text-align: center;
+    margin-top: -10px;
+    margin-right: 38px;
+ }
+
+ li {
+    text-decoration: none;
+    list-style: none;
+    margin: auto;
+    display: inline-block;
+    padding: 10px 15px;
+    color: black;
+ 
+  }
+.socialmediaicon {
+    display: inline-block;
+    padding: 40 40px;
+}
+.socials a {
+    width: 200px;
+    text-decoration: none;
+}
+.socials a:hover {
+    color: darkgrey;
+}
