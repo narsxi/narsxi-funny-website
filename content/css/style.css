@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: rgb(32, 32, 32);
 }
 .site_content {
     text-align: center;
@@ -15,14 +15,14 @@ body {
 .narsxititle{
     font-family: 'Quicksand', sans-serif;
     font-size:50px;
-    color:black;
+    color:white;
     margin-top: -10px;
 }
 
 .narsxisubtitle {
     font-family: 'Quicksand', sans-serif;
     font-size:25px;
-    color:black;
+    color:white;
     margin-top: -30px;
 }
 
@@ -47,10 +47,19 @@ body {
     text-decoration: none;
 }
 .socials a {
-    color: black;
+    color: white;
     width: 200px;
     text-decoration: none;
 }
 .socials a:hover {
-    color: darkgrey;
+    color: rgb(0, 255, 149);
+    transition: 1s;
+}
+
+.footerting {
+    margin-top: 330px;  
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-size:20px;
+    color: white;
 }
