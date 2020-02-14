@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+.site_content {
+    text-align: center;
+}
+
+.narlogo{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+.narsxititle{
+    font-family: 'Quicksand', sans-serif;
+    font-size:50px;
+    color:black;
+    margin-top: -5px;
+}
+
+.narsxisubtitle{
+    font-family: 'Quicksand', sans-serif;
+    font-size:25px;
+    color:black;
+    margin-top: -20px;
+}
