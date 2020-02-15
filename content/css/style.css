@@ -5,14 +5,14 @@ body {
     text-align: center;
 }
 
-.narlogo{
+.narlogo {
     width: 200px;
     height: 200px;
     border-radius: 100%;
     display: inline-block;
 }
 
-.narsxititle{
+.narsxititle {
     font-family: 'Quicksand', sans-serif;
     font-size:50px;
     color:white;
@@ -41,16 +41,19 @@ body {
     color: black;
     text-decoration: none;
   }
+
 .socialmediaicon {
     display: inline-block;
     padding: 40 40px;
     text-decoration: none;
 }
+
 .socials a {
     color: white;
     width: 200px;
     text-decoration: none;
 }
+
 .socials a:hover {
     color: rgb(0, 255, 149);
     transition: 1s;
