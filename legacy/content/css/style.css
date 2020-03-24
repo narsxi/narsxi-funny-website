@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(32, 32, 32);
+}
+.site_content {
+    text-align: center;
+}
+
+.narlogo {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+.narsxititle {
+    font-family: 'Quicksand', sans-serif;
+    font-size:50px;
+    color:white;
+    margin-top: -10px;
+}
+
+.narsxisubtitle {
+    font-family: 'Quicksand', sans-serif;
+    font-size:25px;
+    color:white;
+    margin-top: -30px;
+}
+
+.socials {
+    text-align: center;
+    margin-top: -15px;
+    margin-right: 38px;
+    text-decoration: none;
+ }
+
+ li {
+    list-style: none;
+    margin: auto;
+    display: inline-block;
+    padding: 10px 15px;
+    color: black;
+    text-decoration: none;
+  }
+
+.socialmediaicon {
+    display: inline-block;
+    padding: 40 40px;
+    text-decoration: none;
+}
+
+.socials a {
+    color: white;
+    width: 200px;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.socials a:hover {
+    color: rgb(0, 255, 149);
+    transition: 0.5s;
+}
+
+.footerting {
+    margin-top: 318px;  
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-size:20px;
+    color: white;
+}
+
+/* Yoinked off of w3schools kek*/
+.btn {
+    background-color: red; /* Blue background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 12px 20px; /* Some padding */
+    font-size: 20px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: crimson;
+  }
